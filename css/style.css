@@ -26,10 +26,6 @@ html {
   
 }
 
-h1 {
-    margin: 0;
-}
-
 img {
 	max-width: 100%;
 }
@@ -44,4 +40,8 @@ img {
 
 .text {
     text-align:  center;
+}
+
+h1 {
+    margin: 0;
 }
